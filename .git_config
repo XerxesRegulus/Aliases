@@ -1,0 +1,9 @@
+[alias]
+	co = checkout
+	redl = pull origin develop
+	reb = rebase develop
+	upld = push origin HEAD
+	addall = add --all
+	com = commit -m
+	br = branch
+	st = status
